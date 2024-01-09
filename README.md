@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm RAMDANI Djibril</h1>
 <h3 align="center">Etudiant en 3ème année de BUT Informatique à l'IUT d'Aix en Provence</h3>
 
-- Hello , I am Djibril [Sonus-Imaginari](https://github.com/babibelbleu/sonus-imaginari)
+- I'm interested in collaborating on web development and content management projects. My experience includes working with Oauth2, TLS, and advanced encryption for secure interfaces, as well as managing documents and automated processes with Alfresco. I also have experience in developing interfaces following SEDA 2.1 standards. Additionally, I've worked on a cybersecurity learning application and a recipe website using MVC structure. I'm eager to apply my skills in new projects, particularly those involving PHP/SQL, HTML/CSS/JavaScript, and Java. 
 
-- I'm interested in collaborating on web development and content management projects. My experience includes working with Oauth2, TLS, and advanced encryption for secure interfaces, as well as managing documents and automated processes with Alfresco. I also have experience in developing interfaces following SEDA 2.1 standards. Additionally, I've worked on a cybersecurity learning application and a recipe website using MVC structure. I'm eager to apply my skills in new projects, particularly those involving PHP/SQL, HTML/CSS/JavaScript, and Java. [Application Réseau](https://github.com/SAE-S3-4/Application)
-
-- I'm seeking assistance with advanced web security techniques and database optimization. I have experience with basic security protocols and database management, but I'm eager to deepen my knowledge in areas like secure coding practices, data encryption, and efficient database structuring. Any guidance or collaboration in these areas, especially with PHP/SQL, would be greatly appreciated. [Simulation de Restauration Universitaire](https://github.com/RAMDANI-Djibril-2124047aa/Prog_Avance)
+- I'm seeking assistance with advanced web security techniques and database optimization. I have experience with basic security protocols and database management, but I'm eager to deepen my knowledge in areas like secure coding practices, data encryption, and efficient database structuring. Any guidance or collaboration in these areas, especially with PHP/SQL, would be greatly appreciated. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/RAMDANI-Djibril-2124047aa](https://github.com/RAMDANI-Djibril-2124047aa)
 
