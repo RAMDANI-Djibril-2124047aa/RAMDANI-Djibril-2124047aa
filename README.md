@@ -5,10 +5,6 @@
 
 - I'm seeking assistance with advanced web security techniques and database optimization. I have experience with basic security protocols and database management, but I'm eager to deepen my knowledge in areas like secure coding practices, data encryption, and efficient database structuring. Any guidance or collaboration in these areas, especially with PHP/SQL, would be greatly appreciated. 
 
-- 👨‍💻 All of my projects are available at [https://github.com/RAMDANI-Djibril-2124047aa](https://github.com/RAMDANI-Djibril-2124047aa)
-
-- The best way to reach me is through email at ramdjibril24@gmail.com. You can also connect with me on GitHub at github.com/RAMDANI-Djibril-2124047aa, where I share my projects and contributions. **ramdjibril@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/djibril ramdani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="djibril ramdani" height="30" width="40" /></a>
